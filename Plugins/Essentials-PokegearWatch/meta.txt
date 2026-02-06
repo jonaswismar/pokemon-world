@@ -1,0 +1,4 @@
+﻿Name       = Pokegear Watch
+Version    = 1.2
+Essentials = 21.1
+Credits    = FL
