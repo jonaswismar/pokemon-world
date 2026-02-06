@@ -1,2 +1,26 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
+# Pallet Town (1) - Route 21 (33)
+1,South,0,33,North,4
+# Cerulean City (8) - Route 4 (7)
+8,West,0,7,East,0
+# Route 24 (9) - Route 4 (7)
+9,South,0,7,North,110
+# Route 24 (9) - Cerulean City (8)
+9,South,6,8,North,0
+# Route 13 (23) - Route 12 (22)
+23,North,0,22,South,0
+# Route 17 (27) - Route 16 (26)
+27,0,0,26,0,18
+# Route 16 (26) - Route 18 (28)
+26,0,177,28,0,0
+# Route 20 (31) - Route 19 (30)
+31,East,0,30,West,41
+# Cinnabar Island (32) - Route 20 (31)
+32,East,0,31,West,0
+# Route 21 (33) - Route 20 (31)
+33,South,36,31,North,0
+# Route 21 (33) - Cinnabar Island (32)
+33,South,0,32,North,0
+# Indigo Plateau (36) - Route 23 (35)
+36,0,12,35,0,0

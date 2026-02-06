@@ -1,398 +1,277 @@
 ﻿# See the documentation on the wiki to learn how to edit this file.
 #-------------------------------
 [001]   # Pallet Town
-Name = Intro
+Name = Pallet Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 1,14,16
 #-------------------------------
 [002]   # Route 1
-Name = Lappet Town
+Name = Route 1
 Outdoor = true
 ShowArea = true
-MapPosition = 0,13,12
-BattleBack = field
+Bicycle = true
+HealingSpot = 1,14,16
 #-------------------------------
 [003]   # Viridian City
-Name = \PN's house
-HealingSpot = 2,8,8
-MapPosition = 0,13,12
+Name = Viridian City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 3,35,35
 #-------------------------------
 [004]   # Route 2
-Name = Pokémon Lab
-MapPosition = 0,13,12
-#-------------------------------
-[005]   # Pewter City
-Name = Route 1
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,11
-BattleBack = field
-#-------------------------------
-[006]   # Route 3
-Name = Route 1
-MapPosition = 0,13,11
-#-------------------------------
-[007]   # Route 4
-Name = Cedolan City
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,10
-MapSize = 2,11
-#-------------------------------
-[008]   # Cerulean City
-Name = Lappet Town
-MapPosition = 0,13,12
-#-------------------------------
-[009]   # Route 24
-Name = Cedolan City
-HealingSpot = 8,17,11
-MapPosition = 0,14,10
-#-------------------------------
-[010]   # Route 25
-Name = Cedolan City
-MapPosition = 0,13,10
-BattleBack = indoor3
-Environment = Rock
-Flags = DisableBoxLink
-#-------------------------------
-[011]   # Route 5
-Name = Cedolan City
-MapPosition = 0,14,10
-#-------------------------------
-[012]   # Route 9
-Name = Cedolan City
-MapPosition = 0,14,10
-#-------------------------------
-[013]   # Route 10
-Name = Cedolan City
-MapPosition = 0,14,10
-#-------------------------------
-[014]   # Lavender Town
-Name = Cedolan City
-MapPosition = 0,13,10
-#-------------------------------
-[015]   # Route 8
-Name = Cedolan City
-MapPosition = 0,13,10
-#-------------------------------
-[016]   # Saffron City
-Name = Cedolan City
-MapPosition = 0,13,10
-#-------------------------------
-[017]   # Route 6
-Name = Cedolan City
-MapPosition = 0,13,10
-#-------------------------------
-[018]   # Vermilion City
-Name = Cedolan City
-MapPosition = 0,13,10
-#-------------------------------
-[019]   # Route 7
-Name = Cedolan City
-MapPosition = 0,13,10
-#-------------------------------
-[020]   # Celadon City
-Name = Cedolan City
-MapPosition = 0,13,10
-#-------------------------------
-[021]   # Route 11
 Name = Route 2
 Outdoor = true
 ShowArea = true
-Weather = Rain,100
-MapPosition = 0,14,8
-BattleBack = field
-MapSize = 1,11
-#-------------------------------
-[023]   # Route 13
-Name = Lerucean Town
-Outdoor = true
-ShowArea = true
-MapPosition = 0,15,8
-#-------------------------------
-[024]   # Route 14
-Name = Lerucean Town
-HealingSpot = 23,11,15
-MapPosition = 0,15,8
-#-------------------------------
-[025]   # Route 15
-Name = Lerucean Town
-MapPosition = 0,15,8
-#-------------------------------
-[026]   # Route 16
-Name = Lerucean Town
-MapPosition = 0,15,8
-#-------------------------------
-[027]   # Route 17
-Name = Lerucean Town
-MapPosition = 0,15,8
-#-------------------------------
-[028]   # Route 18
-Name = Natural Park
-Outdoor = true
-ShowArea = true
-MapPosition = 0,16,8
-BattleBack = field
-Flags = MossRock,BugContest
-#-------------------------------
-[029]   # Fuchsia City
-Name = Natural Park
 Bicycle = true
-MapPosition = 0,16,8
-Flags = BugContestReception
+HealingSpot = 3,35,36
 #-------------------------------
-[030]   # Route 19
-Name = Natural Park
-MapPosition = 0,16,8
-Flags = BugContestReception
+[005]   # Pewter City
+Name = Pewter City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 5,21,36
 #-------------------------------
-[031]   # Route 20
+[006]   # Route 3
 Name = Route 3
 Outdoor = true
 ShowArea = true
-MapPosition = 0,14,6
-BattleBack = field
-MapSize = 2,1101
-#-------------------------------
-[034]   # Route 22
-Name = Route 3
 Bicycle = true
-MapPosition = 0,15,6
-BattleBack = cave1
-Environment = Cave
-Flags = IceRock
+HealingSpot = 5,21,35
 #-------------------------------
-[035]   # Route 23
-Name = Ingido Plateau
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,6
-#-------------------------------
-[036]   # MAP036
-Name = Ingido Plateau
-HealingSpot = 35,17,7
-MapPosition = 0,13,6
-#-------------------------------
-[037]   # MAP037
-Name = Ingido Plateau
-MapPosition = 0,13,6
-BattleBack = elite1
-Flags = DisableBoxLink
-#-------------------------------
-[038]   # MAP038
-Name = Ingido Plateau
-MapPosition = 0,13,6
-Flags = DisableBoxLink
-#-------------------------------
-[039]   # MAP039
+[007]   # Route 4
 Name = Route 4
 Outdoor = true
 ShowArea = true
-MapPosition = 0,11,6
-BattleBack = field
-MapSize = 2,11
+Bicycle = true
+HealingSpot = 7,20,15
 #-------------------------------
-[040]   # MAP040
-Name = Route 4
+[008]   # Cerulean City
+Name = Cerulean City
 Outdoor = true
 ShowArea = true
-BicycleAlways = true
-MapPosition = 0,11,6
+Bicycle = true
+HealingSpot = 8,22,20
 #-------------------------------
-[041]   # MAP041
+[009]   # Route 24
+Name = Route 24
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 8,22,20
+#-------------------------------
+[010]   # Route 25
+Name = Route 25
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 8,22,20
+#-------------------------------
+[011]   # Route 5
 Name = Route 5
 Outdoor = true
 ShowArea = true
+Bicycle = true
+HealingSpot = 8,22,20
+#-------------------------------
+[012]   # Route 9
+Name = Route 9
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 8,22,20
+#-------------------------------
+[013]   # Route 10
+Name = Route 10
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 13,22,29
+#-------------------------------
+[014]   # Lavender Town
+Name = Lavender Town
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 14,15,14
+#-------------------------------
+[015]   # Route 8
+Name = Route 8
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 14,15,14
+#-------------------------------
+[016]   # Saffron City
+Name = Saffron City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 16,24,40
+#-------------------------------
+[017]   # Route 6
+Name = Route 6
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 16,24,40
+#-------------------------------
+[018]   # Vermilion City
+Name = Vermilion City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 18,21,15
+#-------------------------------
+[019]   # Route 7
+Name = Route 7
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 16,24,39
+#-------------------------------
+[020]   # Celadon City
+Name = Celadon City
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 20,76,18
+#-------------------------------
+[021]   # Route 11
+Name = Route 11
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 16,24,40
+#-------------------------------
+[022]   # Route 12
+Name = Route 12
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 14,15,14
+#-------------------------------
+[023]   # Route 13
+Name = Route 13
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 14,15,14
+#-------------------------------
+[024]   # Route 14
+Name = Route 14
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 14,15,14
+#-------------------------------
+[025]   # Route 15
+Name = Route 15
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 14,15,14
+#-------------------------------
+[026]   # Route 16
+Name = Route 16
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 20,76,18
+#-------------------------------
+[027]   # Route 17
+Name = Route 17
+Outdoor = true
+ShowArea = true
+Bicycle = true
 BicycleAlways = true
-MapPosition = 0,11,7
-MapSize = 1,111
+HealingSpot = 20,76,18
 #-------------------------------
-[044]   # MAP044
-Name = Route 6
+[028]   # Route 18
+Name = Route 18
 Outdoor = true
 ShowArea = true
-MapPosition = 0,11,10
-BattleBack = field
-MapSize = 2,11
-#-------------------------------
-[045]   # MAP045
-Name = Route 6
-Outdoor = true
-ShowArea = true
-BicycleAlways = true
-MapPosition = 0,11,10
-#-------------------------------
-[046]   # MAP046
-Name = Route 4
 Bicycle = true
-MapPosition = 0,12,6
+HealingSpot = 20,76,18
 #-------------------------------
-[047]   # MAP047
-Name = Route 7
+[029]   # Fuchsia City
+Name = Fuchsia City
 Outdoor = true
 ShowArea = true
-Weather = Rain,0
-MapPosition = 0,15,10
-BattleBack = rocky
-MapSize = 2,11
-Environment = Rock
-#-------------------------------
-[049]   # MAP049
-Name = Route 7
 Bicycle = true
-MapPosition = 0,16,10
-BattleBack = cave1
-Environment = Cave
-Flags = Magnetic,DistortionWorld
+HealingSpot = 29,34,38
 #-------------------------------
-[050]   # MAP050
-Name = Route 7
+[030]   # Route 19
+Name = Route 19
+Outdoor = true
+ShowArea = true
 Bicycle = true
-MapPosition = 0,16,10
-DarkMap = true
-BattleBack = cave3
-Environment = Cave
-Flags = Magnetic,DistortionWorld
+HealingSpot = 29,34,38
 #-------------------------------
-[051]   # MAP051
-Name = Route 7
+[031]   # Route 20
+Name = Route 20
+Outdoor = true
+ShowArea = true
 Bicycle = true
-MapPosition = 0,16,10
-Dungeon = true
-BattleBack = cave2
-Environment = Cave
-Flags = Magnetic,DistortionWorld,ScaleWildEncounterLevels
+HealingSpot = 29,34,38
 #-------------------------------
-[052]   # MAP052
-Name = Battle Frontier
+[032]   # Cinnabar Island
+Name = Cinnabar Island
 Outdoor = true
 ShowArea = true
-MapPosition = 0,17,10
-#-------------------------------
-[053]   # MAP053
-Name = Battle Frontier
-HealingSpot = 52,17,14
-MapPosition = 0,17,10
-#-------------------------------
-[054]   # MAP054
-Name = Battle Frontier
-MapPosition = 0,17,10
-#-------------------------------
-[055]   # MAP055
-Name = Battle Frontier
-HealingSpot = 52,30,10
-MapPosition = 0,17,10
-#-------------------------------
-[056]   # MAP056
-Name = Battle Frontier
-MapPosition = 0,17,10
-BattleBack = indoor1
-Flags = DisableBoxLink
-#-------------------------------
-[057]   # MAP057
-Name = Battle Frontier
-MapPosition = 0,17,10
-#-------------------------------
-[058]   # MAP058
-Name = Battle Frontier
-MapPosition = 0,17,10
-#-------------------------------
-[059]   # MAP059
-Name = Battle Frontier
-MapPosition = 0,17,10
-BattleBack = indoor1
-Flags = DisableBoxLink
-#-------------------------------
-[060]   # MAP060
-Name = Battle Frontier
-MapPosition = 0,17,10
-#-------------------------------
-[061]   # MAP061
-Name = Battle Frontier
-MapPosition = 0,17,10
-BattleBack = indoor1
-Flags = DisableBoxLink
-#-------------------------------
-[062]   # MAP062
-Name = Battle Frontier
-MapPosition = 0,17,10
-#-------------------------------
-[063]   # MAP063
-Name = Battle Frontier
-MapPosition = 0,17,10
-Flags = DisableBoxLink
-#-------------------------------
-[064]   # MAP064
-Name = Battle Frontier
-MapPosition = 0,17,10
-BattleBack = indoor1
-Flags = DisableBoxLink
-#-------------------------------
-[065]   # MAP065
-Name = Battle Frontier
-MapPosition = 0,17,10
-Flags = DisableBoxLink
-#-------------------------------
-[066]   # MAP066
-Name = Safari Zone
-Outdoor = true
-ShowArea = true
-MapPosition = 0,12,12
-BattleBack = field
-#-------------------------------
-[067]   # MAP067
-Name = Safari Zone
-MapPosition = 0,12,12
-#-------------------------------
-[068]   # MAP068
-Name = Safari Zone
-Outdoor = true
-ShowArea = true
-MapPosition = 0,12,12
-SafariMap = true
-BattleBack = forest
-Environment = Forest
-#-------------------------------
-[069]   # MAP069
-Name = Route 8
-Outdoor = true
-ShowArea = true
-MapPosition = 0,13,13
-DiveMap = 70
-BattleBack = field
-#-------------------------------
-[070]   # MAP070
-Name = Route 8
-MapPosition = 0,13,13
-BattleBack = underwater
-Environment = Underwater
-#-------------------------------
-[071]   # MAP071
-Name = Route 8
-MapPosition = 0,13,13
-#-------------------------------
-[072]   # MAP072
-Name = Berth Island
-Outdoor = true
-ShowArea = true
-Weather = Storm,50
-MapPosition = 0,18,17
-BattleBack = field
-Flags = DistortionWorld
-#-------------------------------
-[073]   # MAP073
-Name = Faraday Island
-Outdoor = true
-ShowArea = true
-MapPosition = 0,22,16
-BattleBack = field
-Flags = DistortionWorld
-#-------------------------------
-[074]   # MAP074
-Name = Route 6
 Bicycle = true
-MapPosition = 0,12,10
+HealingSpot = 32,26,19
 #-------------------------------
-[075]   # MAP075
-Name = Tiall Region
+[033]   # Route 21
+Name = Route 21
 Outdoor = true
-MapPosition = 1,13,16
-BattleBack = city
+ShowArea = true
+Bicycle = true
+HealingSpot = 32,26,19
+#-------------------------------
+[034]   # Route 22
+Name = Route 22
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 3,35,35
+#-------------------------------
+[035]   # Route 23
+Name = Route 23
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 3,35,35
+#-------------------------------
+[036]   # Indigo Plateau
+Name = Indigo Plateau
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 3,35,35
+#-------------------------------
+[037]   # Prof. Oak Lab
+Name = Prof. Oak Lab
+ShowArea = true
+HealingSpot = 1,14,16
+#-------------------------------
+[038]   # Pallet Town House
+Name = Pallet Town House
+HealingSpot = 1,14,16
+#-------------------------------
+[039]   # Viridian Forest
+Name = Viridian Forest
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 3,35,36
+#-------------------------------
+[040]   # Mt. Moon Square
+Name = Mt. Moon Square
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 7,20,16
