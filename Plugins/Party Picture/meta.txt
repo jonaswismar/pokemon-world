@@ -1,0 +1,18 @@
+Name       = Party Picture
+Version    = 1.2.0
+Essentials = 21.1
+Requires   = Marin's Scripting Utilities,2.0
+Requires   = Following Pokemon EX
+Requires   = rainefallUtils
+Credits    = RiqueRique
+
+# CHANGELOG:
+# Now it's pretty easy to add your new filters and overlay effects! (Check the Header of the script for more information.);
+# Pokémon now will animate properly instead of having their animations off by default!;
+# The code is way more readable and flexible!;
+# Moved Graphics from Plugins to Graphics folder (Neccessary considering you're recommended to delete the Plugins folder before releasing the game);
+# You can save as many pictures as you want now, multiple pictures on the same map will have a (x) indicating the amount of pictures taken in that map;
+# Pictures are now saved in a directory called Screenshots, this directory is created automatically once you take your first screenshot;
+# You cannot move the camera in Snap Edges maps anymore, this is due to bugs tied to the camera movement;
+# No more events on the way, now all events but the player and their party will be invisible so they don't get in the way of the picture;
+#https://eeveeexpo.com/resources/1502/

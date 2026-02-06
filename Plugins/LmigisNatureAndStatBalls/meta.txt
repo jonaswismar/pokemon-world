@@ -1,0 +1,4 @@
+Name = Lmigi's Nature and Stat Balls
+Version = 1.0.0
+Link = volbeat.vip
+Credits = Lmigi

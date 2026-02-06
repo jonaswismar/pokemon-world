@@ -1,0 +1,4 @@
+﻿Name       = Roaming Icon
+Version    = 1.1.4
+Essentials = 21.1
+Credits    = FL

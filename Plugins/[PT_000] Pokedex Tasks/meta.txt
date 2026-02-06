@@ -1,0 +1,14 @@
+Name       = Pokedex Tasks            # The plugin's name
+Version    = 1.1.0                    # The plugin's version
+Essentials = 21.1                     # Compatible version(s) of Essentials
+Requires   = v21.1 Hotfixes,1.0.7
+Requires   = Modular UI Scenes,2.0.4
+Optional   = Generation 9 Pack,3.2.0
+Link       = https://reliccastle.com/resources/1483/
+Credits    = dewm3734                 # One or more names
+# Installation
+# 1. Drag and drop the PBS folder into your root folder, if you have already
+#    downloaded this plugin then replace the two conflicting files
+# 2. Drag and drop the Graphics folder into your root folder, if you have
+#    already downloaded this plugin then replace the two conflicting files
+# 3.

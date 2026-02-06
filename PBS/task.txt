@@ -1,0 +1,69 @@
+# Tasks to add:
+#   HATCH
+#   HASHIDDENABILITY
+#-------------------------------
+[CAPTURE]
+SourceName=CAPTURE
+Name=Capture
+Description=Capture many of this Pokemon
+Thresholds=1,4,8,10
+#-------------------------------
+[CAPTURE1]
+SourceName=CAPTURE1
+Name=Capture
+Description=Capture this Pokemon
+Thresholds=1
+#-------------------------------
+[CAPTURENIGHT]
+SourceName=CAPTURENIGHT
+Name=Capture at Night
+Description=Capture many at night
+Thresholds=1,3,5,8
+#-------------------------------
+[CAPTUREEVENING]
+SourceName=CAPTUREEVENING
+Name=Capture in the Evening
+Description=Capture many in the Evening
+Thresholds=1,3,5,8
+#-------------------------------
+[MOVE]
+SourceName=MOVE
+Name=Move
+Description=Observe the move
+Thresholds=3,6,9,15
+#-------------------------------
+[DEFEATED]
+SourceName=DEFEATED
+Name=Defeated
+Description=Defeat many of this Pokemon
+Thresholds=1,4,8,10
+#-------------------------------
+[DEFEATEDTYPE]
+SourceName=DEFEATEDTYPE
+Name=Defeat with move type
+Description=Defeat many with move type:
+Thresholds=1,4,8,10
+#-------------------------------
+[EVOLVED]
+SourceName=EVOLVED
+Name=Evolved
+Description=Evolve this Pokemon
+Thresholds=1,3,5
+#-------------------------------
+[EVOLVEDWITHITEM]
+SourceName=EVOLVEDWITHITEM
+Name=Evolved with item
+Description=Evolve this Pokemon with a
+Thresholds=3,6,9,15
+#-------------------------------
+[ITEMWINBATTLES]
+SourceName=ITEMWINBATTLES
+Name=Win battle with item
+Description=Win battles holding the item:
+Thresholds=1,5,10,15,20
+#-------------------------------
+[ITEMUSEBATTLE]
+SourceName=ITEMUSEBATTLE
+Name=Use item in battle
+Description=In battle use the item:
+Thresholds=1,3,6,10

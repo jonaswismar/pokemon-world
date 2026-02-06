@@ -1,0 +1,280 @@
+# See the documentation on the wiki to learn how to edit this file.
+#-------------------------------
+[HPEVBALL]
+Name = HP EV Ball
+NamePlural = HP EV Balls
+Pocket = 3
+Price = 4000
+Description = A Poké Ball that maxes the caught Pokémon's HP EVs.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[ATKEVBALL]
+Name = Attack EV Ball
+NamePlural = Attack EV Balls
+Pocket = 3
+Price = 4000
+Description = A Poké Ball that maxes the caught Pokémon's Attack EVs.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[DEFEVBALL]
+Name = Defense EV Ball
+NamePlural = Defense EV Balls
+Pocket = 3
+Price = 4000
+Description = A Poké Ball that maxes the caught Pokémon's Defense EVs.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[SPAEVBALL]
+Name = Sp. Atk EV Ball
+NamePlural = Sp. Atk EV Balls
+Pocket = 3
+Price = 4000
+Description = A Poké Ball that maxes the caught Pokémon's Special Attack EVs.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[SPDEVBALL]
+Name = Sp. Def EV Ball
+NamePlural = Sp. Def EV Balls
+Pocket = 3
+Price = 4000
+Description = A Poké Ball that maxes the caught Pokémon's Special Defense EVs.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[SPEEVBALL]
+Name = Speed EV Ball
+NamePlural = Speed EV Balls
+Pocket = 3
+Price = 4000
+Description = A Poké Ball that maxes the caught Pokémon's Speed EVs.
+BattleUse = OnFoe
+Flags = PokeBall
+#------------------------------#-------------------------------
+[HARDYBALL]
+Name = Hardy Ball
+NamePlural = Hardy Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Hardy-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[LONELYBALL]
+Name = Lonely Ball
+NamePlural = Lonely Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Lonely-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[BRAVEBALL]
+Name = Brave Ball
+NamePlural = Brave Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Brave-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[ADAMANTBALL]
+Name = Adamant Ball
+NamePlural = Adamant Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Adamant-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[NAUGHTYBALL]
+Name = Naughty Ball
+NamePlural = Naughty Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Naughty-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[BOLDBALL]
+Name = Bold Ball
+NamePlural = Bold Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Bold-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[DOCILEBALL]
+Name = Docile Ball
+NamePlural = Docile Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Docile-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[RELAXEDBALL]
+Name = Relaxed Ball
+NamePlural = Relaxed Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Relaxed-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[IMPISHBALL]
+Name = Impish Ball
+NamePlural = Impish Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Impish-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[LAXBALL]
+Name = Lax Ball
+NamePlural = Lax Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Lax-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[TIMIDBALL]
+Name = Timid Ball
+NamePlural = Timid Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Timid-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[HASTYBALL]
+Name = Hasty Ball
+NamePlural = Hasty Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Hasty-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[SERIOUSBALL]
+Name = Serious Ball
+NamePlural = Serious Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Serious-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[JOLLYBALL]
+Name = Jolly Ball
+NamePlural = Jolly Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Jolly-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[NAIVEBALL]
+Name = Naive Ball
+NamePlural = Naive Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Naive-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[MODESTBALL]
+Name = Modest Ball
+NamePlural = Modest Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Modest-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[MILDBALL]
+Name = Mild Ball
+NamePlural = Mild Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Mild-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[QUIETBALL]
+Name = Quiet Ball
+NamePlural = Quiet Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Quiet-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[BASHFULBALL]
+Name = Bashful Ball
+NamePlural = Bashful Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Bashful-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[RASHBALL]
+Name = Rash Ball
+NamePlural = Rash Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Rash-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[CALMBALL]
+Name = Calm Ball
+NamePlural = Calm Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Calm-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[GENTLEBALL]
+Name = Gentle Ball
+NamePlural = Gentle Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Gentle-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[SASSYBALL]
+Name = Sassy Ball
+NamePlural = Sassy Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Sassy-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[CAREFULBALL]
+Name = Careful Ball
+NamePlural = Careful Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Careful-natured.
+BattleUse = OnFoe
+Flags = PokeBall
+#-------------------------------
+[QUIRKYBALL]
+Name = Quirky Ball
+NamePlural = Quirky Balls
+Pocket = 3
+Price = 2000
+Description = A Poké Ball that makes the caught Pokémon Quirky-natured.
+BattleUse = OnFoe
+Flags = PokeBall
