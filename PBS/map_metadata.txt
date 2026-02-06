@@ -358,3 +358,39 @@ MapSize = 1,1
 #-------------------------------
 [041]   # PokeCenter
 Name = Poke Center
+MapPosition = 0,12,10
+MapSize = 1,1
+#-------------------------------
+[042]   # Route 28
+Name = Route 28
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 42,30,20
+MapPosition = 0,3,10
+MapSize = 3,000000111
+#-------------------------------
+[043]   # Silver Conference
+Name = Silver Conference
+Outdoor = true
+ShowArea = true
+Bicycle = true
+HealingSpot = 43,17,19
+MapPosition = 0,2,10
+MapSize = 1,1
+#-------------------------------
+[044]   # Route 26
+Name = Route 26
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,6,15
+MapSize = 5,1000010000100001000010000
+#-------------------------------
+[045]   # Route 27
+Name = Route 27
+Outdoor = true
+ShowArea = true
+Bicycle = true
+MapPosition = 0,0,15
+MapSize = 6,000000000000000000000000000000111111

@@ -24,3 +24,5 @@
 33,South,0,32,North,0
 # Indigo Plateau (36) - Route 23 (35)
 36,0,12,35,0,0
+# Route 26 (44) - Route 27 (45)
+44,West,0,45,East,0
