@@ -89,6 +89,7 @@ Bicycle = true
 HealingSpot = 8,22,20
 MapPosition = 0,25,2
 MapSize = 3,000000111
+Flags = PowerSpot
 #-------------------------------
 [011]   # Route 5
 Name = Route 5
@@ -331,6 +332,7 @@ ShowArea = true
 HealingSpot = 1,14,16
 MapPosition = 0,12,14
 MapSize = 1,1
+Flags = PowerSpot
 #-------------------------------
 [038]   # Pallet Town House
 Name = Pallet Town House

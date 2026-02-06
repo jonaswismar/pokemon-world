@@ -1175,6 +1175,7 @@ Price = 300
 BPPrice = 10
 Flags = Fling_30
 Description = An item to be held by a Pokémon. It boosts Speed when intimidated. It can be used only once.
+BattleUse = Direct
 #-------------------------------
 [ROOMSERVICE]
 Name = Room Service
@@ -2948,6 +2949,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine for treating wounds. It can be used to restore 20 HP to a single Pokémon.
+LauncherPoints = 2
 #-------------------------------
 [SUPERPOTION]
 Name = Super Potion
@@ -2958,6 +2960,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine for treating wounds. It can be used to restore 60 HP to a single Pokémon.
+LauncherPoints = 4
 #-------------------------------
 [HYPERPOTION]
 Name = Hyper Potion
@@ -2968,6 +2971,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine for treating wounds. It can be used to restore 120 HP to a single Pokémon.
+LauncherPoints = 8
 #-------------------------------
 [MAXPOTION]
 Name = Max Potion
@@ -2979,6 +2983,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine for treating wounds. It can completely restore the max HP of a single Pokémon.
+LauncherPoints = 10
 #-------------------------------
 [FULLRESTORE]
 Name = Full Restore
@@ -2989,6 +2994,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A medicine that fully restores the HP and heals any status problems of a single Pokémon.
+LauncherPoints = 13
 #-------------------------------
 [SACREDASH]
 Name = Sacred Ash
@@ -3010,6 +3016,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine. It awakens a Pokémon from the clutches of sleep.
+LauncherPoints = 4
 #-------------------------------
 [ANTIDOTE]
 Name = Antidote
@@ -3020,6 +3027,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine. It lifts the effect of poison from one Pokémon.
+LauncherPoints = 4
 #-------------------------------
 [BURNHEAL]
 Name = Burn Heal
@@ -3030,6 +3038,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine. It heals a single Pokémon that is suffering from a burn.
+LauncherPoints = 4
 #-------------------------------
 [PARALYZEHEAL]
 Name = Paralyze Heal
@@ -3040,6 +3049,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine. It eliminates paralysis from a single Pokémon.
+LauncherPoints = 4
 #-------------------------------
 [ICEHEAL]
 Name = Ice Heal
@@ -3050,6 +3060,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine. It defrosts a Pokémon that has been frozen solid.
+LauncherPoints = 4
 #-------------------------------
 [FULLHEAL]
 Name = Full Heal
@@ -3060,6 +3071,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A spray-type medicine. It heals all the status problems of a single Pokémon.
+LauncherPoints = 5
 #-------------------------------
 [PEWTERCRUNCHIES]
 Name = Pewter Crunchies
@@ -3152,6 +3164,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A medicine that revives a fainted Pokémon. It restores half the Pokémon's maximum HP.
+LauncherPoints = 11
 #-------------------------------
 [MAXREVIVE]
 Name = Max Revive
@@ -3163,6 +3176,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = A medicine that revives a fainted Pokémon. It fully restores the Pokémon's HP.
+LauncherPoints = 14
 #-------------------------------
 [BERRYJUICE]
 Name = Berry Juice
@@ -3301,6 +3315,7 @@ FieldUse = OnPokemon
 BattleUse = OnMove
 Flags = Fling_30
 Description = It restores the PP of a Pokémon's selected move by a maximum of 10 points.
+LauncherPoints = 4
 #-------------------------------
 [MAXETHER]
 Name = Max Ether
@@ -3311,6 +3326,7 @@ FieldUse = OnPokemon
 BattleUse = OnMove
 Flags = Fling_30
 Description = It fully restores the PP of a single selected move that has been learned by the target Pokémon.
+LauncherPoints = 6
 #-------------------------------
 [ELIXIR]
 Name = Elixir
@@ -3321,6 +3337,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = It restores the PP of all the moves learned by the targeted Pokémon by 10 points each.
+LauncherPoints = 8
 #-------------------------------
 [MAXELIXIR]
 Name = Max Elixir
@@ -3331,6 +3348,7 @@ FieldUse = OnPokemon
 BattleUse = OnPokemon
 Flags = Fling_30
 Description = It fully restores the PP of all the moves learned by the targeted Pokémon.
+LauncherPoints = 10
 #-------------------------------
 [PPUP]
 Name = PP Up
@@ -5878,6 +5896,7 @@ Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
 Description = An item that sharply boosts the Attack stat of a Pokémon while it remains in battle.
+LauncherPoints = 3
 #-------------------------------
 [XATTACK2]
 Name = X Attack 2
@@ -5887,6 +5906,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It sharply raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 5
 #-------------------------------
 [XATTACK3]
 Name = X Attack 3
@@ -5896,6 +5916,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It drastically raises the Attack stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 7
 #-------------------------------
 [XATTACK6]
 Name = X Attack 6
@@ -5905,6 +5926,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It raises the Attack stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 12
 #-------------------------------
 [XDEFENSE]
 Name = X Defense
@@ -5914,6 +5936,7 @@ Price = 2000
 BattleUse = OnBattler
 Flags = Fling_30
 Description = An item that sharply boosts the Defense of a Pokémon while it remains in battle.
+LauncherPoints = 3
 #-------------------------------
 [XDEFENSE2]
 Name = X Defense 2
@@ -5923,6 +5946,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It sharply raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 5
 #-------------------------------
 [XDEFENSE3]
 Name = X Defense 3
@@ -5932,6 +5956,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It drastically raises the Defense stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 7
 #-------------------------------
 [XDEFENSE6]
 Name = X Defense 6
@@ -5941,6 +5966,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It raises the Defense stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 12
 #-------------------------------
 [XSPATK]
 Name = X Sp. Atk
@@ -5950,6 +5976,7 @@ Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
 Description = An item that sharply boosts the Sp. Atk stat of a Pokémon while it remains in battle.
+LauncherPoints = 3
 #-------------------------------
 [XSPATK2]
 Name = X Sp. Atk 2
@@ -5959,6 +5986,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It sharply raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 5
 #-------------------------------
 [XSPATK3]
 Name = X Sp. Atk 3
@@ -5968,6 +5996,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It drastically raises the Sp. Atk stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 7
 #-------------------------------
 [XSPATK6]
 Name = X Sp. Atk 6
@@ -5977,6 +6006,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It raises the Sp. Atk stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 12
 #-------------------------------
 [XSPDEF]
 Name = X Sp. Def
@@ -5986,6 +6016,7 @@ Price = 2000
 BattleUse = OnBattler
 Flags = Fling_30
 Description = An item that sharply boosts the Sp. Def stat of a Pokémon while it remains in battle.
+LauncherPoints = 3
 #-------------------------------
 [XSPDEF2]
 Name = X Sp. Def 2
@@ -5995,6 +6026,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It sharply raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 5
 #-------------------------------
 [XSPDEF3]
 Name = X Sp. Def 3
@@ -6004,6 +6036,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It drastically raises the Sp. Def stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 7
 #-------------------------------
 [XSPDEF6]
 Name = X Sp. Def 6
@@ -6013,6 +6046,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It raises the Sp. Def stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 12
 #-------------------------------
 [XSPEED]
 Name = X Speed
@@ -6022,6 +6056,7 @@ Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
 Description = An item that sharply boosts the Speed stat of a Pokémon while it remains in battle.
+LauncherPoints = 3
 #-------------------------------
 [XSPEED2]
 Name = X Speed 2
@@ -6031,6 +6066,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It sharply raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 5
 #-------------------------------
 [XSPEED3]
 Name = X Speed 3
@@ -6040,6 +6076,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It drastically raises the Speed stat of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 7
 #-------------------------------
 [XSPEED6]
 Name = X Speed 6
@@ -6049,6 +6086,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It raises the Speed stat of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 12
 #-------------------------------
 [XACCURACY]
 Name = X Accuracy
@@ -6058,6 +6096,7 @@ Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
 Description = An item that sharply boosts the accuracy of a Pokémon while it remains in battle.
+LauncherPoints = 3
 #-------------------------------
 [XACCURACY2]
 Name = X Accuracy 2
@@ -6067,6 +6106,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It sharply raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 5
 #-------------------------------
 [XACCURACY3]
 Name = X Accuracy 3
@@ -6076,6 +6116,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It drastically raises the accuracy of a Pokémon in battle. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 7
 #-------------------------------
 [XACCURACY6]
 Name = X Accuracy 6
@@ -6085,6 +6126,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It raises the accuracy of a Pokémon in battle immensely. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 12
 #-------------------------------
 [MAXMUSHROOMS]
 Name = Max Mushrooms
@@ -6105,6 +6147,7 @@ Price = 1000
 BattleUse = OnBattler
 Flags = Fling_30
 Description = An item that raises the critical-hit ratio greatly. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 3
 #-------------------------------
 [DIREHIT2]
 Name = Dire Hit 2
@@ -6114,6 +6157,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It sharply raises the critical-hit ratio. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 5
 #-------------------------------
 [DIREHIT3]
 Name = Dire Hit 3
@@ -6123,6 +6167,7 @@ Price = 0
 BattleUse = OnBattler
 Flags = Fling_30
 Description = It greatly raises the critical-hit ratio. It wears off if the Pokémon is withdrawn.
+LauncherPoints = 7
 #-------------------------------
 [GUARDSPEC]
 Name = Guard Spec.
@@ -6132,6 +6177,7 @@ Price = 1500
 BattleUse = Direct
 Flags = Fling_30
 Description = An item that prevents stat reduction among the Trainer's party Pokémon for five turns after use.
+LauncherPoints = 3
 #-------------------------------
 [RESETURGE]
 Name = Reset Urge
@@ -6139,7 +6185,9 @@ NamePlural = Reset Urges
 Pocket = 7
 Price = 0
 Flags = Fling_30
-Description = When used, it restores any stat changes of an ally Pokémon.
+Description = When used, it restores any stat changes of a target Pokémon.
+LauncherPoints = 9
+LauncherUse = OnTarget
 #-------------------------------
 [ABILITYURGE]
 Name = Ability Urge
@@ -6147,7 +6195,9 @@ NamePlural = Ability Urges
 Pocket = 7
 Price = 0
 Flags = Fling_30
-Description = When used, it activates the Ability of an ally Pokémon.
+Description = When used, it activates the Ability of a target Pokémon.
+LauncherPoints = 3
+LauncherUse = OnTarget
 #-------------------------------
 [ITEMURGE]
 Name = Item Urge
@@ -6155,7 +6205,9 @@ NamePlural = Item Urges
 Pocket = 7
 Price = 0
 Flags = Fling_30
-Description = When used, it causes an ally Pokémon to use its held item.
+Description = When used, it causes a target Pokémon to use its held item.
+LauncherPoints = 2
+LauncherUse = OnTarget
 #-------------------------------
 [ITEMDROP]
 Name = Item Drop
@@ -6163,7 +6215,9 @@ NamePlural = Item Drops
 Pocket = 7
 Price = 0
 Flags = Fling_30
-Description = When used, it causes an ally Pokémon to drop a held item.
+Description = When used, it causes a target Pokémon to drop its held item.
+LauncherPoints = 6
+LauncherUse = OnTarget
 #-------------------------------
 [BLUEFLUTE]
 Name = Blue Flute
